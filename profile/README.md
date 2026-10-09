@@ -91,24 +91,7 @@ Eles moram dentro do jogo e topam qualquer partida.
 
 Cada jogador escolhe a sua carinha. Algumas vêm de presente, outras você ganha jogando, e tem umas lendárias que dão um trabalhão pra conseguir. 👑
 
-## 🚧 Onde está o jogo agora
-
-O Rastilho está em fase de testes com um grupo pequeno de amigos. Ficou com vontade de testar também? Manda uma mensagem pra **rastilho.support@gmail.com** que a gente te chama. Quem testa agora ganha um robô lendário que ninguém mais vai ter. 🤫
-
-## 🛠️ Quem faz o Rastilho
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/guilherme-marinho">
-        <img src="https://github.com/guilherme-marinho.png" width="96" alt="Guilherme Marinho"><br>
-        <b>Guilherme Marinho</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="assets/logo.png" width="72" alt="Rastilho"><br>
-  <sub>Feito no Brasil, com muito café e muita pista. 🇧🇷</sub>
+  <sub>Feito no Brasil, com muita pista. 🇧🇷</sub>
 </p>
