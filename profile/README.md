@@ -16,7 +16,7 @@ Uma carta sai com um tema surpresa e as pistas vão aparecendo, uma de cada vez.
 
 Dá pra jogar com os amigos no sofá, cada um no seu celular, ou desafiar a Turma quando não tem ninguém por perto.
 
-## 🔥 Bora testar?
+## 🔥 Bora jogar uma?
 
 Aqui vai uma carta de verdade. Abra uma pista por vez e veja em qual você acertaria.
 
